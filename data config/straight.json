@@ -1,0 +1,21 @@
+{
+  "name": "Straight Punches",
+  "commands": [
+    "Jab",
+    "1-2",
+    "Double Jab",
+    "Jab-Cross",
+    "Jab Jab Cross",
+    "Cross",
+    "Rest"
+  ],
+  "optimal_angle_range": 35,
+  "guard_threshold": 0.08,
+  "good_distance_min": 0.38,
+  "good_distance_max": 0.85,
+  "color": [
+    255,
+    255,
+    100
+  ]
+}

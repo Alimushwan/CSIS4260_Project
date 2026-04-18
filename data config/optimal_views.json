@@ -1,0 +1,22 @@
+{
+    "jab": {
+        "preferred": "front_3q",
+        "tolerance_deg": 30
+    },
+    "cross": {
+        "preferred": "front_3q",
+        "tolerance_deg": 30
+    },
+    "hook": {
+        "preferred": "side_3q",
+        "tolerance_deg": 25
+    },
+    "uppercut": {
+        "preferred": "side_3q",
+        "tolerance_deg": 25
+    },
+    "footwork": {
+        "preferred": "side",
+        "tolerance_deg": 20
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Hooks",
+  "commands": [
+    "Left Hook",
+    "Right Hook",
+    "Left Hook Right Hook",
+    "Double Left Hook",
+    "Double Right Hook",
+    "Left Hook Right Hook Left Hook",
+    "Rest"
+  ],
+  "optimal_angle_range": 25,
+  "guard_threshold": 0.12,
+  "good_distance_min": 0.4,
+  "good_distance_max": 0.8,
+  "color": [
+    255,
+    165,
+    0
+  ]
+}

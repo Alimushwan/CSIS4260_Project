@@ -1,0 +1,20 @@
+{
+  "name": "Uppercuts",
+  "commands": [
+    "Left Uppercut",
+    "Right Uppercut",
+    "Left Uppercut Right Uppercut",
+    "Double Left Uppercut",
+    "Double Right Uppercut",
+    "Rest"
+  ],
+  "optimal_angle_range": 30,
+  "guard_threshold": 0.1,
+  "good_distance_min": 0.35,
+  "good_distance_max": 0.75,
+  "color": [
+    0,
+    255,
+    255
+  ]
+}

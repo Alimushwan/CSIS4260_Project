@@ -1,0 +1,18 @@
+{
+  "name": "Situps",
+  "commands": [
+    "Situp",
+    "Slow Situp",
+    "Crunch",
+    "Rest"
+  ],
+  "optimal_angle_range": 45,
+  "guard_threshold": 0.2,
+  "good_distance_min": 0.25,
+  "good_distance_max": 0.65,
+  "color": [
+    255,
+    100,
+    255
+  ]
+}
